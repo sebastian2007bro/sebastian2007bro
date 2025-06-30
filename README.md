@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi.
 
 <!--
 **sebastian2007bro/sebastian2007bro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
